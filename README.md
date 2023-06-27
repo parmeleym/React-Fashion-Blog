@@ -1,3 +1,3 @@
-# [Netlify Live Link](Netlify link here)
+# [Netlify Live Link](https://papaya-marshmallow-eea78e.netlify.app)
 # [GitHub Pages Live Link](GitHub Pages link of HTML version)
-# [GitHub Link of HTML Version](GitHub link for HTML version)
+# [GitHub Link of HTML Version](https://parmeleym.github.io/HTML-Fashion-Blog/)
