@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Fashion-Blog/static/css/main.49ed66ed.css",
+    "main.js": "/React-Fashion-Blog/static/js/main.4ebfc16e.js",
+    "static/media/blog-image-1.jpg": "/React-Fashion-Blog/static/media/blog-image-1.9aede45137cf25a35938.jpg",
+    "static/media/blog-image-2.jpg": "/React-Fashion-Blog/static/media/blog-image-2.05647c5b927cacf4fc03.jpg",
+    "index.html": "/React-Fashion-Blog/index.html",
+    "main.49ed66ed.css.map": "/React-Fashion-Blog/static/css/main.49ed66ed.css.map",
+    "main.4ebfc16e.js.map": "/React-Fashion-Blog/static/js/main.4ebfc16e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ed66ed.css",
+    "static/js/main.4ebfc16e.js"
+  ]
+}
